@@ -17,7 +17,7 @@ Sprite is free for now! Just hit **Get Key** when you open the app. You'll go th
 ### 💬 Join the Community
 Need help? Want to suggest a feature? Join the Discord!
 
-[Join the Sprite Discord]([https://discord.gg/yourlinkhere](https://discord.gg/AJVre6k4))
+(https://discord.gg/AJVre6k4)
 
 ---
 
