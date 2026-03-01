@@ -1,33 +1,45 @@
-# 🌌 Sprite Executer | Next-Gen Roblox Executor
+# 🍇 Sprite Exec Pro
 
-Welcome to **Sprite**! I built this project because I wanted a clean, purple-themed executor that actually feels smooth to use. It’s currently in a "Free Beta" phase, so enjoy it while it's hot!
+**Sprite Exec Pro** is a premium, high-performance executor designed for professionals. Featuring a sleek **Neon Purple** aesthetic and a secure **Activation Guard**, it provides the ultimate scripting experience with a focus on stability and ease of use.
 
-### 👋 A Note from the Creator
-I’ve put a lot of hours into getting the UI and the Script Library just right. If you use the code for your own project or showcase it in a video, **please be a legend and credit me!** Don't be that person who "skids" and claims they made it from scratch. 
+## ✨ Features
 
-### 🚀 What makes Sprite different?
-* **Local Library:** Just drop your `.lua` files in the `/scripts` folder and they show up instantly.
-* **Web Search:** Search ScriptBlox directly from the "Finder" tab without leaving the app.
-* **Custom Accents:** Don't like purple? Head to settings and swap the neon glow to Blue, Green, or Red.
-* **Built-in Utils:** Includes a "Kill Roblox" button for when the game freezes up on you.
-
-### 🔑 Getting a Key
-Sprite is free for now! Just hit **Get Key** when you open the app. You'll go through a quick Linkvertise to support the development, and you'll get a 24-hour key. 
-
-### 💬 Join the Community
-Need help? Want to suggest a feature? Join the Discord!
-
-(https://discord.gg/AJVre6k4)
+- **🎨 Premium "Pro" UI**: A dark, modern interface with neon purple accents and glowing effects.
+- **🚀 Advanced Execution**: High-speed script execution with Quorum API integration.
+- **🛡️ Secure Activation**: Full-dark splash screen with complex, unguessable license keys.
+- **🔍 Script Hub**: Built-in ScriptBlox search—find and execute thousands of scripts instantly.
+- **⚙️ Pro Settings**: Toggle **Topmost**, **Auto-Attach**, and **Auto-Execute** to customize your flow.
+- **📁 File Management**: Easily open, save, and manage your `.lua` scripts directly in the app.
 
 ---
 
-## ⚖️ Legal Disclaimer & Terms of Service
+## 📥 How to Download
 
-By downloading or using **Sprite**, you agree to the following:
+Getting started with **Sprite Exec Pro** is simple. Follow the link below to reach our secure download portal:
 
-1. **Educational Purpose:** Sprite is intended for educational and research purposes only. I do not condone or encourage the breaking of any platform's Terms of Service.
-2. **No Liability:** I (the creator) am not responsible for any account bans, data loss, or damages resulting from the use or misuse of this software. Use it at your own risk.
-3. **No Reselling:** This software is provided as-is. You are not permitted to sell this free version of Sprite to others.
-4. **Attribution:** If you share or showcase this project, you **must** provide clear credit to the original repository. 
+### [👉 DOWNLOAD SPRITE EXEC PRO](https://link-hub.net/3910032/LEPH3wq0Vfyz)
 
-**If you do not agree to these terms, please delete the executable immediately.**
+1. Click the link above.
+2. Complete the short access steps.
+3. Download and extract the folder.
+4. Run `Sprite Exec.exe` to begin.
+
+---
+
+## 🔧 Activation Guide
+
+1. Upon first launch, you will see a **Full Dark Activation Screen**.
+2. Enter your unique **License Key**.
+3. If you don't have a key, click **"GET KEY (FREE)"** to be redirected.
+4. Once activated, the full Pro UI will unlock.
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is created for educational and research purposes only. The developers of Sprite Exec are not responsible for any misuse. Always stay safe and follow community guidelines.
+
+---
+
+### [GitHub Repository](https://github.com/lacedsprite/Sprite-Executer)
+*Built with ❤️ by Sprite Team*
