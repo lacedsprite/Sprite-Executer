@@ -29,3 +29,4 @@ Sprite Exec Pro is a high-performance, enterprise-grade executor designed for po
 
 ## ⚠️ Safety Disclaimer
 This tool is for educational and security research purposes only. Use it responsibly and follow all community guidelines.
+**Join the Official Discord:** [https://discord.gg/CcCUs6mRnw](https://discord.gg/CcCUs6mRnw)
