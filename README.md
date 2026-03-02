@@ -1,33 +1,35 @@
-# Sprite Exec Pro
+# 🌌 Sprite Exec Pro
 
-Sprite Exec Pro is a high-performance, enterprise-grade executor designed for power users. This version introduces Anti-Share Technology, Hardware ID (HWID) Binding, and Real-Time Update Notifications to ensure the most secure and up-to-date scripting environment.
+Sprite Exec Pro is a high-performance, enterprise-grade executor designed for power users. Incorporating **Anti-Share Technology**, **Hardware ID (HWID) Binding**, and **Real-Time Security Monitoring**, it provides the most secure and localized scripting environment available.
 
 ## 💎 Pro Features
 
 ### 🔒 Enterprise Security (Anti-Share)
-- **HWID Binding**: Every license key is permanently locked to your hardware on first use. Zero sharing, zero leaks.
-- **Live IP Monitoring**: All activations are logged with IP and Hardware signatures to prevent unauthorized access.
-- **Full Dark Splash**: The application is 100% concealed behind a solid black activation shield until the correct key is provided.
+- **HWID & IP Binding**: Every account and license key is permanently locked to your specific hardware and public IP on first use. Zero sharing, zero leaks.
+- **Discord Webhook Monitoring**: All activation attempts, logins, and failed security checks are logged directly to the administrative server for real-time oversight.
+- **Anti-Reverse Engineering**: Integrated protection against debuggers and virtualized environments (VMs) to ensure the integrity of the core execution engine.
 
-### 🚀 Performance & UI
-- **Neon Purple Aesthetic**: High-end dark theme with vibrant purple glows and custom minimalist controls.
-- **Quorum Engine**: Built on the latest execution core for maximum speed and stability.
-- **Script Hub Pro**: Search thousands of scripts instantly via the integrated ScriptBlox API.
+### 🚀 Premium UI & Performance
+- **Neon Aesthetic**: A sleek, high-fidelity dark theme with dynamic neon glows that synchronize with your custom accent colors.
+- **Pulsing Loading Screen**: A visually stunning startup sequence with "breathing" animations and professional typography.
+- **Script Hub Pro**: Search and execute thousands of scripts instantly via the integrated ScriptBlox API.
 
-### 🔄 Auto-Update System
-- **Instant Alerts**: Never miss an update. The executor automatically checks for new releases on startup and provides a 1-click download banner.
-- **Cloud Config**: Admins can update the version and download links remotely for all users.
+### 🔄 Session Management
+- **24-Hour Key Cycle**: Automated session management with a live countdown timer. Users are required to refresh their access every 24 hours to maintain security.
+- **Forgot Password Recovery**: Self-service account recovery allows users to reset their credentials using their unique device security key.
 
-## 📥 Getting Started
+## 🔑 Getting Started
 
-### 👉 DOWNLOAD SPRITE EXEC PRO
-1. **Download**: Use the link above to get the latest Pro build.
-2. **Launch**: Open `Sprite Exec.exe`. The screen will be black—this is the Security Shield.
-3. **Activate**: Enter your License Key (or click "GET KEY" if you don't have one).
-4. **Script**: Once activated, the Pro UI will unlock all features.
+Currently, Sprite Exec Pro is in a controlled rollout phase.
 
+### How to Get a Key:
+1. **Join the Discord**: Join our official community server.
+2. **Open a Ticket**: Navigate to the `#support` or `#get-key` channel and open a new ticket.
+3. **Activation**: Our staff will provide you with a unique license key tied to your hardware.
+
+---
 
 ## ⚠️ Safety Disclaimer
 This tool is for educational and security research purposes only. Use it responsibly and follow all community guidelines.
 
-**Join the Official Discord:** [https://discord.gg/CcCUs6mRnw](https://discord.gg/CcCUs6mRnw)
+**Join the Official Discord:** [https://discord.gg/ermHQShjcZ](https://discord.gg/ermHQShjcZ)
