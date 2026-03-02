@@ -24,8 +24,24 @@ Currently, Sprite Exec Pro is in a controlled rollout phase.
 
 ### How to Get a Key:
 1. **Join the Discord**: Join our official community server.
-2. **Open a Ticket**: Navigate to the `#ticket-here` channel and open a new ticket.
+2. **Open a Ticket**: Navigate to the `#key-here` channel and open a new ticket.
 3. **Activation**: Our staff will provide you with a unique license key tied to your hardware.
+
+---
+
+## 📜 Terms of Service (TOS)
+
+By using Sprite Exec Pro, you agree to the following terms and conditions:
+
+### 1. Acceptable Use
+- **Educational Purposes**: This software is provided strictly for educational, security research, and personal use.
+- **Prohibited Actions**: You may not use this software to perform any illegal activities, including but not limited to unauthorized access to computer systems, data theft, or harassment.
+
+### 2. No Warranty
+- **As-Is Basis**: Sprite Exec Pro is provided "as is" without any warranties. The developers are not responsible for any damage or loss of data. Use at your own risk.
+
+### 3. Account Security
+- **Unique Identification**: Access is tied to your HWID and IP. License sharing or attempting to bypass security will result in a permanent ban.
 
 ---
 
