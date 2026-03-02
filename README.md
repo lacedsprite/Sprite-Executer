@@ -24,7 +24,7 @@ Currently, Sprite Exec Pro is in a controlled rollout phase.
 
 ### How to Get a Key:
 1. **Join the Discord**: Join our official community server.
-2. **Open a Ticket**: Navigate to the `#support` or `#get-key` channel and open a new ticket.
+2. **Open a Ticket**: Navigate to the `#ticket-here` channel and open a new ticket.
 3. **Activation**: Our staff will provide you with a unique license key tied to your hardware.
 
 ---
