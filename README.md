@@ -1,4 +1,4 @@
-# 🌌 Sprite Exec Pro
+# 🌌 Sprite Finder
 
 Sprite Exec Pro is a high-performance, enterprise-grade executor designed for power users. Incorporating **Anti-Share Technology**, **Hardware ID (HWID) Binding**, and **Real-Time Security Monitoring**, it provides the most secure and localized scripting environment available.
 
